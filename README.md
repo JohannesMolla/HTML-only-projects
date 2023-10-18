@@ -7,9 +7,9 @@ I'm eager to see your contributions to this project! Here's how you can get invo
 - The folder structure should follow this pattern:
    ```
    project-name/ 
-      ↳ images/
-      ↳ posts/
-      ↳ index.html
+      ↳ directory-name/ (optional)
+      ↳ another-directory-name/ (optional)
+      ↳ index.html (required)
       ↳ about.html (optional)
       ↳ contact.html (optional)
       ↳ Live Demo Link (required)
@@ -18,7 +18,7 @@ I'm eager to see your contributions to this project! Here's how you can get invo
 ## 2. Best Practices
 
 - Only HTML and Media files allowed.
-- The project should contain at least three HTML files.
+- The project should contain at least **one** HTML files.
 - Please follow the HTML best practices provided in the [HTML Best Practices GitHub repository](https://github.com/kuthathwe/html-best-practices).
 
 ## 3. Getting Started
