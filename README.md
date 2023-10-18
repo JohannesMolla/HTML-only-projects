@@ -12,6 +12,7 @@ I'm eager to see your contributions to this project! Here's how you can get invo
       ↳ index.html
       ↳ about.html (optional)
       ↳ contact.html (optional)
+      ↳ Live Demo Link (required)
    ```
 
 ## 2. Best Practices
