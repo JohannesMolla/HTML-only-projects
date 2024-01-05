@@ -19,7 +19,7 @@ I'm eager to see your contributions to this project! Here's how you can get invo
 
 - Only HTML and Media files allowed.
 - The project should contain at least **one** HTML file.
-- Please follow the HTML best practices provided in the [HTML Best Practices GitHub repository](https://github.com/kuthathwe/html-best-practices).
+- Please follow the HTML best practices provided in the [HTML Best Practices GitHub repository](https://github.com/hail2u/html-best-practices).
 
 ## 3. Getting Started
 
