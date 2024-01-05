@@ -1,3 +1,3 @@
 # Example page
 
-Demo link: https://kutkut.html-5.me
+Demo link: http://kutkut.html-5.me
