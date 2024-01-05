@@ -1,3 +1,3 @@
-# My personal page
+# Example page
 
-Here is the demo link: https://kuthathwe.github.io
+Demo link: https://kutkut.html-5.me
