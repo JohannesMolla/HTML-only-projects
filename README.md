@@ -18,7 +18,7 @@ I'm eager to see your contributions to this project! Here's how you can get invo
 ## 2. Best Practices
 
 - Only HTML and Media files allowed.
-- The project should contain at least **one** HTML files.
+- The project should contain at least **one** HTML file.
 - Please follow the HTML best practices provided in the [HTML Best Practices GitHub repository](https://github.com/kuthathwe/html-best-practices).
 
 ## 3. Getting Started
@@ -29,15 +29,15 @@ If you're new to contributing to open source projects, you can follow these step
 
 2. Clone your forked repository to your local machine:
 
-      git clone https://github.com/your-username/project-name.git
+      ```git clone https://github.com/your-username/project-name.git```
 
 3. Make your changes and commit them with a descriptive message:
 
-      git commit -m "Add your description here"
+      ```git commit -m "Add your description here"```
    
 4. Push your changes to your forked repository on GitHub:
 
-      git push origin
+      ```git push origin```
    
 5. Create a pull request from your forked repository on GitHub to the main project repository.
 
